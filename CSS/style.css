@@ -1,0 +1,106 @@
+@import url(reset.css);
+@font-face {
+	src: url(../font/gulim.ttf);
+	font-family: 'gulim';
+	font-weight: normal;
+}
+
+.main-content {
+	width: 1440px;
+	height: 2427px;
+}
+
+.heading {
+	background-color: #E5E000;
+	height: 200px;
+}
+
+.heading h1 {
+	font-family: 'gulim';
+	font-size: 50px;
+	font-weight: bold;
+	color: white;
+	line-height: 200px;
+	padding-left: 80px;
+}
+
+.image {
+width: 1440px;
+height: 1080px;
+background-size: cover;
+}
+
+.menu {
+	height: 100px;
+	background: #E5E000;
+	
+}
+.links a {
+	font-family: 'gulim';
+	font-weight: bold;
+	font-size: 25px;
+	line-height: 29px;
+	text-transform: uppercase;
+	text-decoration: none;
+	color: #FFFFFF;
+}
+
+.links {
+	padding-left: 80px;
+	padding-top: 39px;
+}
+.main-text {
+	width: 1280px;
+	padding-top: 110px;
+	padding-left: 80px;
+	padding-bottom: 100px;
+}
+.text p {
+	font-family: 'gulim';
+	font-size: 50px;
+	line-height: 57px;
+}
+
+p + p {
+	padding-top: 100px;
+}
+
+.footer {
+	width: 1440px;
+	height: 200px;
+	background: #E5E000;
+	
+}
+.text h2 {
+	font-family: 'gulim';
+	font-weight: bold;
+	font-size: 50px;
+	margin-bottom: 100px;
+}
+
+
+.footer p {
+	font-size: 50px;
+	color: white;
+	text-align: right;
+	font-weight: bold;
+	line-height: 200px;
+	padding-right: 80px;
+}
+
+.logo {
+
+}
+
+.logo img {
+	background-size: cover;
+	background-color: red;
+	height: 76px;
+	width: 86px;
+	
+}
+
+
+
+
+
