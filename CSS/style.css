@@ -69,6 +69,7 @@ p + p {
 	width: 1440px;
 	height: 200px;
 	background: #E5E000;
+	position: relative;
 	
 }
 .text h2 {
@@ -89,16 +90,19 @@ p + p {
 }
 
 .logo {
-
-}
-
-.logo img {
+	background-image: url(../img/logo.png);
 	background-size: cover;
-	background-color: red;
-	height: 76px;
+	background-position: 10% 0%;
+	height: 86px;
 	width: 86px;
-	
+	position: absolute;
+    margin-top: -185px;
+    margin-left: 80px;
+
+
 }
+
+
 
 
 
