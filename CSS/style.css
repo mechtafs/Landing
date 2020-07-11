@@ -1,4 +1,4 @@
-@import url(reset.css);
+@import url(CSS/reset.css);
 @font-face {
 	src: url(../font/gulim.ttf);
 	font-family: 'gulim';
