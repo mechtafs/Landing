@@ -92,7 +92,6 @@ p + p {
 .logo {
 	background-image: url(../img/logo.png);
 	background-size: cover;
-	background-position: 10% 0%;
 	height: 86px;
 	width: 86px;
 	position: absolute;
