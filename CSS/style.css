@@ -1,4 +1,4 @@
-@import url(CSS/reset.css);
+@import url(reset.css);
 @font-face {
 	src: url(../font/gulim.ttf);
 	font-family: 'gulim';
@@ -7,7 +7,8 @@
 
 .container {
 	width: 1440px;
-	
+	margin: 0px;
+   
 }
 
 .heading {
@@ -22,6 +23,7 @@
 	color: white;
 	line-height: 200px;
 	padding-left: 80px;
+	margin: 0px;
 }
 
 .image {
@@ -70,6 +72,7 @@ p + p {
 	height: 200px;
 	background: #E5E000;
 	position: relative;
+
 	
 }
 .text h2 {

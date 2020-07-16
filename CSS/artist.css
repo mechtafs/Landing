@@ -1,0 +1,30 @@
+import url(reset.css);
+@font-face {
+  src: url(../font/gulim.ttf);
+  font-family: 'gulim';
+  font-weight: normal;
+}
+
+h1, h2, a {
+	color: white;
+	background: black;
+}
+
+.header {
+	background-color: black;
+	height: 40px;
+	position: relative;
+	margin-bottom: 5px;
+
+}
+
+.headerContainer a {
+	position: absolute;
+	right: 40px;
+	top: 3px;
+	font-family: 'gulim';
+	font-size: 30px;
+	text-decoration: none;
+
+
+}
