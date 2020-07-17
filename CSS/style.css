@@ -72,6 +72,7 @@ p + p {
 	height: 200px;
 	background: #E5E000;
 	position: relative;
+	
 
 	
 }
@@ -92,14 +93,15 @@ p + p {
 	padding-right: 80px;
 }
 
+
 .logo {
 	background-image: url(../img/logo.png);
 	background-size: cover;
 	height: 86px;
 	width: 86px;
-	position: absolute;
-    margin-top: -185px;
+	margin-top: -135px;
     margin-left: 80px;
+    position: absolute;
 }
 
 
