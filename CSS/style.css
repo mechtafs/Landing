@@ -7,8 +7,7 @@
 
 .container {
 	width; vw; 
-	top: 0px;
-   
+	top: 0px;  
 }
 
 .heading {
@@ -34,8 +33,7 @@ background-size: cover;
 
 .menu {
 	height: 100px;
-	background: #E5E000;
-	
+	background: #E5E000;	
 }
 .links a {
 	font-family: 'gulim';
@@ -71,10 +69,7 @@ p + p {
 	width: 1440px;
 	height: 200px;
 	background: #E5E000;
-	position: relative;
-	
-
-	
+	position: relative;	
 }
 .text h2 {
 	font-family: 'gulim';
@@ -82,7 +77,6 @@ p + p {
 	font-size: 50px;
 	margin-bottom: 100px;
 }
-
 
 .footer p {
 	font-size: 50px;
@@ -92,7 +86,6 @@ p + p {
 	line-height: 200px;
 	padding-right: 80px;
 }
-
 
 .logo {
 	background-image: url(../img/logo.png);
